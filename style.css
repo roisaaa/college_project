@@ -1,0 +1,80 @@
+/* CSS Document */
+#wrapper
+{
+	margin:auto;
+	width:960px;
+	height:1000px;
+}
+.linkcontainer
+{
+	width:960px;
+	height:40px;
+	border-radius:6px;
+	background-image:url(Images/linkcontaner.jpg);
+}
+
+.linkcontainer a
+{
+	text-align:center;
+	text-decoration:none;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#FFFFFF;
+	padding:26px;
+}
+
+.linkcontainer a:hover
+{
+	font-size:20px;
+}
+
+.container
+{
+	width:960px;
+	height:600px;
+	border-left:#000000 thick;
+}
+
+.footer
+{
+	background-image:url(Images/linkcontaner.jpg);
+	height:40px;
+	width:960px;
+	border-radius:5px;
+}
+.box
+{
+	width:300px;
+	height:200px;
+	float:left;
+	
+}
+.menus
+{
+	float:left;
+	/*border:1px solid red;*/
+	height:100%;
+	margin-top:15px;
+}
+.image
+{
+	height:100%;
+	width:100%;
+}
+.box1
+{
+	width:960px;
+	height:auto;
+}
+.box2
+{
+	width:300px;
+	height:200px;
+	float:left;
+	
+}
+.image1
+{
+	height:100%;
+	width:100%;
+}
